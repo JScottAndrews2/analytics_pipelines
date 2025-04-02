@@ -1,3 +1,7 @@
+"""
+__copyright__ = Copyright 2025 Joshua Scott Andrews 
+"""
+
 ## Introduction
 This package was made as part of a presentation (Pragmatic Programming 2.0) for SIOP 2025
 
@@ -13,7 +17,7 @@ Guide: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 
 # How to clone the github repository
-Step 1: Go to the github site here:  https://github.com/JScottAndrews2/pragmatic_programming.git
+Step 1: Go to the github site here:  https://github.com/JScottAndrews2/analytics_pipelines
 Under "Code" select clone and copy the link.
 
 Step 2: Use the terminal to navigate to the folder where you want to put the repo clone
