@@ -28,6 +28,9 @@ class DataPreparator:
             dep_var: str
                 The name of the independent variable column
 
+            casewise_del: bool
+                If True, delete cases with missing values.
+
             max_miss: An integer value stating the threshold for the maximium number of cases missing a variable value,
                 if the number of missing is above this threshold, the entire variable is removed. This prevents reducing
                 the size of the dataset when a certain value have large percentage of missing values
